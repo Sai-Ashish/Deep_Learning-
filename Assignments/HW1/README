@@ -1,0 +1,9 @@
+The architecture specified in slide 21 has been implemented and code is there in 2CNNLayers_SGD
+
+2CNNLayers_SGD has been implemented by using stochastic gradient descent
+
+1CNNLayer_BGD has been implemented by using batch gradient descent
+
+The activation map have been shown on a scale of 28,28 thus they appear to be shrinked
+
+And also the layer appears to extracting the edges initially
